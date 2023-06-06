@@ -1,9 +1,11 @@
 
 # Towards Robust Hair Weave Detection and Repair with WeaveFormer
 
-## WeaveFormer: AI-Powered Hair Weave Detection and Restoration
+## Introducing WeaveFormer: AI-Powered Hair Weave Detection and Restoration
 
-WeaveFormer is an AI model that detects poorly installed or degraded hair weaves and digitally reconstructs them to a high-quality state.
+WeaveFormer is an advanced AI model designed to revolutionize the hair care industry. With its cutting-edge technology, WeaveFormer can accurately identify various weave types, detect the installation style (e.g., frontal, sew-in), determine the average length of the hair, and pinpoint installation faults or hair degradation. By leveraging its powerful algorithms, WeaveFormer can seamlessly restore poorly installed or degraded hair weaves to a high-quality state, providing a comprehensive solution for both professionals and individuals.
+
+With WeaveFormer, you can trust that the model's generative capabilities will ensure exceptional results when repairing hair weave installations. Whether it's addressing flaws in the installation technique or rejuvenating degraded hair, WeaveFormer's AI-powered restoration process guarantees a visually appealing and natural-looking outcome. Say goodbye to poorly installed weaves and hello to flawlessly restored hairstyles with WeaveFormer.
 
 ## Model Description
 
