@@ -1,10 +1,4 @@
 
-
-```markdown
-
-    year = {2023}
-}
-```
 # Towards Robust Hair Weave Detection and Repair with WeaveFormer
 
 ## WeaveFormer: AI-Powered Hair Weave Detection and Restoration
