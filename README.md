@@ -31,12 +31,10 @@ For best results, we recommend using high-resolution images that clearly display
 
 ## Updates
 
-* 2023.04.19: 🐳 Training codes and config files are publicly available now.
-* 2023.04.09: Add features of detection and repair for various weave types.
-* 2023.02.10: Include additional weave detectors, producing more accurate detection and restoration.
-* 2022.10.05: Support image input for various weave types. Try it to enhance your weave detection and restoration! 🖼️
-* 2022.09.14: Integrated to 🤗 Hugging Face. Try out online demo! [Hugging Face](https://huggingface.co/)
-* 2022.09.09: Integrated to 🚀 Replicate. Try out online demo! [Replicate](https://replicate.ai/)
+* 2023.06.06: Add features of detection and repair for various weave types.
+* 2023.06.01: Include additional weave detectors, producing more accurate detection and restoration.
+* 2023.05.28: Support image input for various weave types. Try it to enhance your weave detection and restoration! 🖼️
+* 2023.05.14: Integrated to 🚀 Replicate. Try out online demo! [Replicate](https://replicate.ai/)
 
 ## TODO
 * Add training code and config files
