@@ -22,8 +22,7 @@ While WeaveFormer provides an innovative solution for detecting and repairing ha
 For best results, we recommend using high-resolution images that clearly display the hair weave. Factors such as image blur, extreme lighting conditions, or obscured views of the weave may affect the model's performance. The model's results on complex weave installations should be interpreted with caution, and professional advice should always be sought in such cases.
 
 **Paper | Project Page | Video**
-
-S-Lab, Nanyang Technological University  
+  
 **Micah Berkley**
 
 ⭐ If WeaveFormer is helpful to your projects, please star this repo. Thanks! 🤗
@@ -90,10 +89,6 @@ Fidelity weight w lays in [0, 1]. Generally, smaller w tends to produce a higher
 python inference_weaveformer.py --input_path [image folder]|[image path]
 ```
 
-## Training:
-
-The training commands can be found in the documents: [English](docs/training.md) | [简体中文](docs/training-zh.md).
-
 ## Citation
 
 If our work is useful for your research, please consider citing:
@@ -102,14 +97,12 @@ If our work is useful for your research, please consider citing:
 @inproceedings{berkley2023weaveformer,
     author = {Berkley, Micah},
     title = {Towards Robust Hair Weave Detection and Repair with WeaveFormer},
-    booktitle = {To be published},
     year = {2023}
 }
 ```
 
 ## License
-
-This project is licensed under NTU S-Lab License 1.0. Redistribution and use should follow this license.
+``` coming soon ```
 
 ## Acknowledgement
 
