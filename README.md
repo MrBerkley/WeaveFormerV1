@@ -66,3 +66,54 @@ conda activate weaveformer
 # Install Python dependencies
 pip3 install -r requirements.txt
 python basicsr/setup.py develop
+
+
+## Quick Inference
+
+### Download Pre-trained Models:
+
+Download the pretrained models from [Releases | Google Drive | OneDrive](https://github.com/micahberkley/WeaveFormer/releases) to the `weights/WeaveFormer` folder. You can manually download the pretrained models OR download by running the following command:
+
+```shell
+python scripts/download_pretrained_models.py WeaveFormer
+```
+
+### Prepare Testing Data:
+
+You can put the testing images in the `inputs/TestWhole` folder. If you would like to test on specific weave types, you can put them in the `inputs/specific_weave` folder.
+
+### Testing:
+
+Fidelity weight w lays in [0, 1]. Generally, smaller w tends to produce a higher-quality result, while larger w yields a higher-fidelity result. The results will be saved in the `results` folder.
+
+```shell
+python inference_weaveformer.py --input_path [image folder]|[image path]
+```
+
+## Training:
+
+The training commands can be found in the documents: [English](docs/training.md) | [简体中文](docs/training-zh.md).
+
+## Citation
+
+If our work is useful for your research, please consider citing:
+
+```shell
+@inproceedings{berkley2023weaveformer,
+    author = {Berkley, Micah},
+    title = {Towards Robust Hair Weave Detection and Repair with WeaveFormer},
+    booktitle = {To be published},
+    year = {2023}
+}
+```
+
+## License
+
+This project is licensed under NTU S-Lab License 1.0. Redistribution and use should follow this license.
+
+## Acknowledgement
+
+This project is based on BasicSR. Some codes are brought from Unleashing Transformers, YOLOv5-face, and FaceX
+```
+
+You can copy and paste the above markdown into your readme.md file on GitHub.
