@@ -44,6 +44,7 @@ For best results, we recommend using high-resolution images that clearly display
 
 ## Updates
 
+* 2023.11.06: We made critical advances utilizing trainings from OpenAI to dramatically put this project forward. 
 * 2023.06.06: Add features of detection and repair for various weave types.
 * 2023.06.01: Include additional weave detectors, producing more accurate detection and restoration.
 * 2023.05.28: Support image input for various weave types. Try it to enhance your weave detection and restoration! 🖼️
